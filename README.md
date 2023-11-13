@@ -1,7 +1,7 @@
 # Lens-for-blind-An-Image-Captioner-With-Voice-Assistance
 
-This Project Mainly Focuses To Help Blind People By Captioning What the Image Actually is.
-Also This Project has Emotion Deduction which also describes the Emotion of the image if any Person are there in any of the Frame.
+This Project Mainly Focuses To Help Blind People By Captioning What the Image Actually is.Also This Project has Emotion Deduction which also describes the Emotion of the image if any Person are there in any of the Frame.
+In the above .ipynb file,it contains all the stages of building a model from the scrach.
 
 # Dataset Link: 'https://www.kaggle.com/datasets/adityajn105/flickr8k'
 
